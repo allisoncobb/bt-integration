@@ -84,13 +84,12 @@ p {
 	width:100%;
 	max-width:200px;
 	padding:10px;
-	margin-right:0;
-	margin-left:0;
+	margin:0 auto;
 }
 
 @media screen and (max-width: 991px) {
   .vendor-logos {
-    padding:0;
+  	padding:0;
   }
 }
 
